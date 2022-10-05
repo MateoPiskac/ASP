@@ -12,6 +12,7 @@ class Point {
 
    Point() : x(0), y(0) {}
    Point(double x, double y) : x(x), y(y) {}
+   ¨Point() { cout << "unistavam point" << endl; }
 
    int getA() { return a; }
    void setA(int val) { this->a = val; }
