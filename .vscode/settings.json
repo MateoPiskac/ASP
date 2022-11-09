@@ -5,5 +5,8 @@
    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
    "terminal.explorerKind": "external",
    "editor.insertSpaces": true,
-   "C_Cpp.errorSquiggles": "disabled"
+   "C_Cpp.errorSquiggles": "disabled",
+   "files.associations": {
+      "cmath": "cpp"
+   }
 }
