@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ASP1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1.zad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.zad-Debug-7667eb9f6cbafe338b04.json",
+					"name" : "1.zad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Palindrome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Palindrome-Debug-7ef80db886fc93628264.json",
+					"name" : "Palindrome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QueueList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QueueList-Debug-465c16194ee9a535a708.json",
+					"name" : "QueueList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Searching::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Searching-Debug-b17466b618d5543f119a.json",
+					"name" : "Searching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StackStatic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StackStatic-Debug-22930719bd5c72a3905b.json",
+					"name" : "StackStatic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "andrija::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-andrija-Debug-22a76d58dc6c1598a567.json",
+					"name" : "andrija",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-1e106f7f28d19ab4075f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/ASP1/cmake-build-debug",
+		"source" : "C:/ASP1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

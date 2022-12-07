@@ -1,0 +1,9 @@
+C:/ASP1/cmake-build-debug/CMakeFiles/main.dir
+C:/ASP1/cmake-build-debug/CMakeFiles/StackStatic.dir
+C:/ASP1/cmake-build-debug/CMakeFiles/Palindrome.dir
+C:/ASP1/cmake-build-debug/CMakeFiles/Searching.dir
+C:/ASP1/cmake-build-debug/CMakeFiles/QueueList.dir
+C:/ASP1/cmake-build-debug/CMakeFiles/andrija.dir
+C:/ASP1/cmake-build-debug/CMakeFiles/1.zad.dir
+C:/ASP1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ASP1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
